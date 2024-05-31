@@ -1,0 +1,19 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+table {
+    border-radius: 18px;
+    overflow: hidden;
+}
+table th, table td {
+    line-height: 2.2;
+}
+a {
+    text-decoration: none;
+}
+.navbar .app-name a {
+    top: 4px;
+}
+.navbar .navlinks li a {
+    top: 6px;
+}
